@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.8f8d6c7a.css","mappings":"AAAA,gBAEE,YAAa,CADb,cAEF","sources":["styles/App.module.css"],"sourcesContent":[".big {\r\n  font-size: 40px;\r\n  color: tomato;\r\n}\r\n"],"names":[],"sourceRoot":""}
